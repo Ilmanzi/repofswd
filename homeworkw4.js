@@ -67,6 +67,7 @@ console.log("Ganjil : rata-rata = " + avgganjil)
 console.log("Ganjil : Minimum = " + minimumar(ganjil))
 console.log("Ganjil : Maximum = " + maximumar(ganjil))
 
+console.log("---------------------------------------")
 //comparison
 if (sumortotal(genap) < sumortotal(ganjil)){
     console.log("Perbandingan total ganjil lebih besar")
@@ -88,3 +89,4 @@ if (maximumar(genap) < maximumar(ganjil)){
 } else {
     console.log("Perbandingan maximum genap lebih besar")
 }
+console.log("---------------------------------------")
