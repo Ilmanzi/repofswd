@@ -1,1 +1,0 @@
-console.log("Second rakamin post")
